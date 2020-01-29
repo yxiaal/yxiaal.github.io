@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dashen's Homepage"
+title: "Welcome to Dashen's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
