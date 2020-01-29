@@ -30,4 +30,4 @@ Teaching Assistant
 
 Short Courses
 ======
-  * [Summer School on Algebra and Number Theory](http://anss2019.csp.escience.cn/dct/page/1) (In Chinese)
+  * [Summer School on Algebra and Number Theory](http://anss2019.csp.escience.cn/dct/page/1)-Summer 2019 (In Chinese)
