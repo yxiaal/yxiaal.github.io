@@ -9,6 +9,7 @@ author_profile: true
 {% include base_path %}
 
 These are all mathematics courses and programs which I've taken at USTC (Till Fall-2020).
+
 ("*"means this is a graduate level course)
 
 **Freshman Year**
@@ -34,7 +35,7 @@ These are all mathematics courses and programs which I've taken at USTC (Till Fa
 |                 Probability Theory                 |   95   |
 |                   Real Analysis (H)                |   96   |
 
-**Junior Year**
+**Junior Year(Fall-2019)**
 
 |               Courses           | Grades |
 | :-----------------------------: | :----: |
