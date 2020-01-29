@@ -27,3 +27,7 @@ Teaching Assistant
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Short Courses
+======
+  * [Summer School on Algebra and Number Theory](http://anss2019.csp.escience.cn/dct/page/1) (In Chinese)
