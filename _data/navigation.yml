@@ -20,7 +20,7 @@ main:
     url: /notes/
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /404.html #/portfolio/
         
   #- title: "Blog Posts"
    # url: /year-archive/
