@@ -18,7 +18,5 @@ These days I am reading "Yang-Mills Equation over Riemann Surfaces".
 
 
 
-<a href="https://info.flagcounter.com/u8zB"><img src="https://s11.flagcounter.com/count/u8zB/bg_FFFFFF/txt_000000/border_FFFFFF/columns_2/maxflags_6/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
+<a href="https://info.flagcounter.com/MFbr"><img src="https://s11.flagcounter.com/count2/MFbr/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_8/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
