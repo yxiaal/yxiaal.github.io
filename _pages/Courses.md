@@ -29,6 +29,7 @@ These are all mathematics courses and programs which I've taken at USTC (Till Fa
 |                Linear Algebra (B2)                 |   95   |
 |              Differential Equations I              |   96   |
 |               Foundation of Algebra                |   91   |
+|            Differential Manifold*(Audit)           |   --   |
 |                   Modern Algebra (H)               |   95   |
 |                     Topology (H)                   |   93   |
 | Lie Group, Lie Algebra and their Representations * |   99   |
