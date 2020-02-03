@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* The High School Affiliated to South China Normal University
-  * Biology Group, Olympic Class
-
 * B.Sc. in Hong Kong University of Science and Technology University, 2017-current
   * S.S.Chern Class Scholarship
   * Dean's List
   * International Research Enrichment Program
+* The High School Affiliated to South China Normal University, 2014-17
+  * Biology Group, Olympic Class
 
 Interests
 ======
