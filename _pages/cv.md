@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Hong Kong University of Science and Technology University, 2017-current
+* B.Sc. in Hong Kong University of Science & Technology, 2017-current
   * S.S.Chern Class Scholarship
   * Dean's List
   * International Research Enrichment Program
