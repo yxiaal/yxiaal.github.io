@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mr. Yusen XIA"
 title_separator          : "-"
 name                     : &name "Mr. Yusen XIA"
-description              : &description "Undergraduate student at MATH Dept, Hong Kong University of Science Technology"
+description              : &description "Undergraduate student at MATH Dept, Hong Kong University of Science & Technology"
 url                      : https://yxiaal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yxiaal.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mr. Yusen XIA"
   avatar           : "jinmao.jpg"
-  bio              : "Undergraduate student at MATH Dept, Hong Kong University of Science Technology"
+  bio              : "Undergraduate student at MATH Dept, Hong Kong University of Science & Technology"
   location         : "Hong Kong, CHINA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
