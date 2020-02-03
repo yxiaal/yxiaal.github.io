@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * The High School Affiliated to South China Normal University
+  * Biology Group, Olympic Class
 
 * B.Sc. in Hong Kong University of Science and Technology University, 2017-current
   * S.S.Chern Class Scholarship
