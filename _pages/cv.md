@@ -15,7 +15,7 @@ Education
   * S.S.Chern Class Scholarship
   * Dean's List
   * International Research Enrichment Program
-* The High School Affiliated to South China Normal University, 2014-17
+* The Affiliated High School of South China Normal University, 2014-17
   * Biology Group, Olympic Class
 
 Interests
