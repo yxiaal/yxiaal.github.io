@@ -40,7 +40,7 @@ Year 3
 | MATH 3043 Honors Real Analysis      | A     |                          |
 | *MATH 5285 Applied Analysis         | A     |                          |
 | *MATH 5011 Advanced Real Analysis I | A     |                          |
-| SCIE 3500 IRE Research Project      |       | Unknown                  |
+| SCIE 3500 IRE Research Project      | A-      |                   |
 | MATH 120A Differential Geometry     |       | Currently taking at UCLA |
 | MATH 135H Honors Complex analysis   |       | Currently taking at UCLA |
 | *MATH 247A Harmonic Analysis I      |       | Currently taking at UCLA |
