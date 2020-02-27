@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+{% include base_path %}
 Here are the notes that I take in class or after class, written on iPad with iPad Pencil.
 
 - [Tensor Calulus](yxiaal.github.io/pdfs/Notes on Tensor Analysis 2020年2月24日.pdf) , an evolving short notes on basics of tensors based on Lecture Notes on Diff. Geo. by Prof Peter Petersen, Lecture notes on Diff. Mnflds. & Rie. Geo. by Prof Fong Tsz Ho, [YouTube](https://www.youtube.com/watch?v=kGXr1SF3WmA&list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx) on tensor calculus.
