@@ -13,7 +13,7 @@ This is the complete [pdf](https://Toxins.github.io/pdfs/MYCV.pdf) version of th
 
 Education
 ======
-* B.S. in School of Mathematical Sciences, University of Science and Technology of China, 2021(expected)
+* B.Sc. in School of Mathematical Sciences, University of Science and Technology of China, 2021(expected)
   * Overall GPA: 4.02/4.30
   * Weighted Average: 92.3/100.0
 
