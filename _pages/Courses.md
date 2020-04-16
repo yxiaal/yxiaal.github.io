@@ -1,13 +1,3 @@
----
-layout: archive
-title: "Coures"
-permalink: /courses/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
 These are some courses that I'm taking/have taken. Only MATH and related courses are listed. 
 
 ("*" represents Graduate Course)
@@ -35,15 +25,15 @@ Year 2
 
 Year 3
 
-| Course                              | Grade | Remark                   |
-| ----------------------------------- | ----- | ------------------------ |
-| MATH 3043 Honors Real Analysis      | A     |                          |
-| *MATH 5285 Applied Analysis         | A     |                          |
-| *MATH 5011 Advanced Real Analysis I | A     |                          |
-| SCIE 3500 IRE Research Project      | A-      |                   |
-| MATH 120A Differential Geometry     |       | Currently taking at UCLA |
-| MATH 135H Honors Complex analysis   |       | Currently taking at UCLA |
-| *MATH 247A Harmonic Analysis I      |       | Currently taking at UCLA |
-
-
-
+| Course                              | Grade | Remark                                        |
+| ----------------------------------- | ----- | --------------------------------------------- |
+| MATH 3043 Honors Real Analysis      | A     |                                               |
+| *MATH 5285 Applied Analysis         | A     |                                               |
+| *MATH 5011 Advanced Real Analysis I | A     |                                               |
+| SCIE 3500 IRE Research Project      | A-    | Differential Geometry                         |
+| MATH 120A Differential Geometry     | A     | UCLA                                          |
+| MATH 135H Honors Complex analysis   | A-    | UCLA                                          |
+| *MATH 247A Harmonic Analysis I      | B-    | UCLA                                          |
+| *MATH 226A Differential Geometry    |       | Currently taking at UCLA, Riemannian Geometry |
+| MATH 121 Intro to Topology          |       | Currently taking at UCLA                      |
+| MATH 134 Linear & Nonlinear Systems |       | Currently taking at UCLA                      |
