@@ -6,9 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
-These are some courses that I'm taking/have taken. Only MATH and related courses are listed. 
 
+{% include base_path %}
+
+
+These are some courses that I'm taking/have taken. Only MATH and related courses are listed. 
 ("*" represents Graduate Course)
 
 Year 1
