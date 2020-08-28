@@ -15,6 +15,7 @@ Education
   * S.S.Chern Class Scholarship
   * Dean's List
   * International Research Enrichment Program
+* Exchange at University of California, Los Angeles, 2020 Winter-Spring
 * The Affiliated High School of South China Normal University, 2014-17
   * Biology Group, Olympic Class
 
