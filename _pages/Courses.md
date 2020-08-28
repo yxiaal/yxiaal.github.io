@@ -45,6 +45,6 @@ Year 3
 | MATH 120A Differential Geometry     | A     | UCLA                                          |
 | MATH 135H Honors Complex analysis   | A-    | UCLA                                          |
 | *MATH 247A Harmonic Analysis I      | B-    | UCLA                                          |
-| *MATH 226A Differential Geometry    |       | Currently taking at UCLA, Riemannian Geometry |
-| MATH 121 Intro to Topology          |       | Currently taking at UCLA                      |
-| MATH 134 Linear & Nonlinear Systems |       | Currently taking at UCLA                      |
+| *MATH 226A Differential Geometry    | A      | UCLA, Riemannian Geometry |
+| MATH 121 Intro to Topology          | A-      | UCLA                      |
+| MATH 134 Linear & Nonlinear Systems | A-      | UCLA                      |
