@@ -48,3 +48,14 @@ Year 3
 | *MATH 226A Differential Geometry    | A      | UCLA, Riemannian Geometry |
 | MATH 121 Intro to Topology          | A-      | UCLA                      |
 | MATH 134 Linear & Nonlinear Systems | A-      | UCLA                      |
+
+Year 4
+
+| Course                              | Grade | Remark                                        |
+| ----------------------------------- | ----- | --------------------------------------------- |
+| MATH 5230 Differential Topology     | A     |                                               |
+| MATH 6050H Topics in Analysis       | A     |Elliptic PDEs & Sobolev Spaces                 |
+| MATH 4141 Number Theory             | B     |                                               |
+| MATH 4223 Differential Geometry     | A     |                                               |
+
+
