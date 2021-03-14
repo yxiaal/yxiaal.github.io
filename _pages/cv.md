@@ -22,5 +22,5 @@ Education
 Interests
 ======
 * Differential Geometry
-* Analysis
+* PDEs
   
